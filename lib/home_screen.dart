@@ -53,8 +53,8 @@ class _HomeScreenState extends State<HomeScreen> {
                   ),
                   SizedBox(height: 10),
                   Text(
-                    "Welcome!",
-                    style: TextStyle(color: Colors.white, fontSize: 18),
+                    "User Name.",
+                    style: TextStyle(color: Colors.white, fontSize: 18,fontWeight: FontWeight.bold),
                   ),
                 ],
               ),
